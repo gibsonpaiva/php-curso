@@ -1,6 +1,6 @@
 <?php
     $nome1 = "gibson";
-    $sobrenome = "paiva";
+    $sobrenome = " paiva";
 
     $completo = $nome1 . $sobrenome;
 
