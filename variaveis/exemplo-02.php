@@ -5,5 +5,5 @@
     $completo = $nome1 . $sobrenome;
 
     echo $completo;
-    echo
+   
     ?>
